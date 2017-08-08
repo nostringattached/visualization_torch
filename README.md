@@ -11,5 +11,7 @@ They did exactly the same thing. However, the results are not exactly the same.
 
 ### Paper Included
 [1]: Zeiler et al. (2013): [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901)
+
 [2]: Simonyan et al. (2013): [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](http://arxiv.org/abs/1312.6034)
+
 [3]: Springenberg et al. (2015): [Striving for Simplicity - The All Convolutional Net](http://arxiv.org/abs/1412.6806)
